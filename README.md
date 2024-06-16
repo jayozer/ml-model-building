@@ -1,17 +1,14 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# Poppy ML  
 
-Description of the app ...
+test run of model building for Poppy
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-model-builder-template.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://poppy-mlmodelbuilding.streamlit.app/)
 
 ## Section Heading
 
-This is filler text, please replace this with text for this section.
+Lallalalalalaxxxxx
 
 ## Further Reading
 
